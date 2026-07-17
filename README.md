@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Nihal.svg" alt="NIHAL" width="700">
+  <img src="Nihal1323.gif" alt="Matrix Animation" width="900">
 </p>
